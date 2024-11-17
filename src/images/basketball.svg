@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg1" height="200mm" width="200mm">
+  <defs id="defs3">
+    <radialGradient id="radialGradient1345" gradientUnits="userSpaceOnUse" cy="315.64" cx="32.2" gradientTransform="scale(.97890 1.0216)" r="148.01">
+      <stop id="stop8563" stop-color="#dc7b33" offset="0"/>
+      <stop id="stop8565" stop-color="#dc5b00" offset=".59259"/>
+      <stop id="stop8564" stop-color="#ac4700" offset="1"/>
+    </radialGradient>
+    <radialGradient id="radialGradient2116" gradientUnits="userSpaceOnUse" cy="1949.5" cx="-96.915" gradientTransform="scale(2.0665 .48391)" r="133.99">
+      <stop id="stop2110" offset="0"/>
+      <stop id="stop2112" stop-opacity="0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="layer1">
+    <path id="path1347" opacity=".7" d="m76.122 943.37a276.4 64.341 0 1 1 -552.79 0 276.4 64.341 0 1 1 552.79 0z" fill="url(#radialGradient2116)" transform="translate(567.29 -270.05)"/>
+    <g id="g1328" stroke-linejoin="round" stroke-linecap="round" transform="matrix(1.1621 0 0 1.1621 -121.63 -86.019)">
+      <path id="path6066" d="m212.75 396.31a115.53 120.62 0 1 1 -231.07 0 115.53 120.62 0 1 1 231.07 0z" stroke-opacity=".85882" transform="matrix(2.4318 0 0 2.4318 166.58 -583.94)" stroke="#aa4600" stroke-width="2.5" fill="url(#radialGradient1345)"/>
+      <path id="path7310" d="m124.26 410.76c222.87 141.68 587.97 70.84 557.45-70.29" stroke="#000" stroke-width="10.037" fill="none"/>
+      <path id="path7932" d="m447.73 669.13c241.4-49.58 195.08-489.88-86.64-580.33" stroke="#000" stroke-width="10.037" fill="none"/>
+      <path id="path7933" d="m280.85 643.71c101.08-50.95 283.49-59.8 279.54-180.02-3.71-112.84-284.18-183.44-367.82-272.8" stroke="#000" stroke-width="10.037" fill="none"/>
+      <path id="path7935" d="m643.26 530.92c-3.54-29.7 3.96-54.9 3.27-101.56-1.64-112.89 19.89-160.55-52.31-264.63" stroke="#000" stroke-width="10.037" fill="none"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>basketball</dc:title>
+        <dc:date>2009-07-07T22:33:12</dc:date>
+        <dc:description>ball, ball, basketball, basketball, clip art, clipart, image, media, public domain, sport, sport, svg, </dc:description>
+        <dc:source>http://openclipart.org/detail/27075/basketball-by-egore911</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>egore911</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ball</rdf:li>
+            <rdf:li>basketball</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>sport</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
